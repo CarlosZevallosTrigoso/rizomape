@@ -1,3 +1,13 @@
-title: Rizoma.pe
-description: web
-theme: jekyll-theme-cayman # Puedes cambiar este tema por otro
+title: Mi Documentación
+email: tu-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Aquí va una breve descripción de tu documentación.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: tu-nombre-de-usuario
+
+theme: jekyll-theme-cayman
+
+# Opciones de tu tema
+markdown: kramdown
+highlighter: rouge
